@@ -1,0 +1,13 @@
+{
+  "name": "embedkit",
+  "version": "1.0.0",
+  "description": "Move your app forward with EmbedKit API's",
+  "main": "./lib/index.js",
+  "scripts": {},
+  "keywords": [],
+  "author": "APIMATIC SDK Generator",
+  "dependencies": {
+    "request": "^2.55.0",
+    "string": "^3.1.1"
+  }
+}
